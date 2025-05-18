@@ -1,5 +1,5 @@
-import org.example.QuickSort;
-import org.example.ShellSort;
+import org.example.sorts.QuickSort;
+import org.example.sorts.ShellSort;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
